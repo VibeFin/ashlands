@@ -12,3 +12,21 @@ shots/
 
 # Session/machine state, not source.
 .claude/
+
+screenshots/
+
+*.log
+
+*.pid
+
+.agents/
+
+.agentsweb/
+
+.omgithub-runtime/
+
+.opencode-ssh/
+
+.opencode-web/
+
+node_modules/
